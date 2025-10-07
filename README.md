@@ -107,21 +107,6 @@ I architect and build **production-grade full-stack applications** with a focus 
 
 </div>
 
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Production-Ready RAG Systems: A Technical Deep Dive](https://dev.to/nemmarramos/building-production-rag)
-- [Cost Optimization for LLM Applications: From $0.12 to $0.03 per Query](https://dev.to/nemmarramos/llm-cost-optimization)
-- [Hybrid Search: Why Vector + Keyword Beats Pure Semantic Search](https://dev.to/nemmarramos/hybrid-search-rag)
-- [13 Years of Full-Stack: Lessons from Education Tech to AI](https://dev.to/nemmarramos/13-years-fullstack)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [Read more on Dev.to](https://dev.to/nemmarramos)
-
----
-
 ## 🏆 Achievements & Impact
 
 - 🚀 **13+ years** of professional software engineering experience
@@ -170,12 +155,14 @@ I'm open to:
 
 ## 🎯 Fun Facts
 
+- 💻 **Self-taught software developer** - learned programming through online resources, documentation, and building real projects
 - ⚡ Started coding at 15, turned professional at 19
 - 🎮 Built my first Android game during college
-- 📚 Self-taught AI/ML while working full-time
+- 📚 Self-taught AI/ML while working full-time with a family
 - 🌱 Passionate about education technology and accessibility
 - 🏃 Balance coding with running and family time
 - 🇵🇭 Proud Filipino engineer contributing to global tech
+- 🎓 Proof that skills + experience > degrees in tech
 
 ---
 
