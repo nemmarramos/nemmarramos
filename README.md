@@ -156,7 +156,6 @@ I'm open to:
 ## 🎯 Fun Facts
 
 - 💻 **Self-taught software developer** - learned programming through online resources, documentation, and building real projects
-- ⚡ Started coding at 15, turned professional at 19
 - 🎮 Built my first Android game during college
 - 📚 Self-taught AI/ML while working full-time with a family
 - 🌱 Passionate about education technology and accessibility
