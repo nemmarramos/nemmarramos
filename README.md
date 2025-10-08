@@ -140,7 +140,6 @@ I'm open to:
 **Preferred Communication**:
 - 📧 Email: [nemmar.ramos@gmail.com](mailto:nemmar.ramos@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/nemmarramos](https://www.linkedin.com/in/nemmarramos)
-- 🐦 Twitter: [@nemmarramos](https://twitter.com/nemmarramos)
 
 ---
 
